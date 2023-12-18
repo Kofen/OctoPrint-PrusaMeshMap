@@ -30,7 +30,7 @@ or manually using this URL:
 
 **My modified version can be installed using this URL:**
 
-    https://github.com/AndyQ/OctoPrint-PrusaMeshMap/archive/master.zip
+    https://github.com/Kofen/OctoPrint-PrusaMeshMap/archive/master.zip
 
 **NOTE - only Python 3 is now supported - so you will need to have upgraded to the latest OctoPrint**
 
